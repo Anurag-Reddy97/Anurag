@@ -1,0 +1,7 @@
+import com.nttdata
+public class firstProg
+{
+public static void main {
+System.out.println("Hello World...!");
+}
+}
